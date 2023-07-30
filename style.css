@@ -1,1 +1,29 @@
+html {
+    background-color: #FFB35A;
+}
+body {
+    font-family: sans-serif;
+  
+}
+header {
+    background-color: #FFB35A;
+}
+h1 {
+    text-align: center;margin: 0px;
+}
+p {
+    margin: 0px;
+}
+main {
+    background-color: #EE913B;
+    
+}
+footer {
+    background-color: #FFB35A;
+}
+img {
+    width: 530px;height:262px;
+}
+
+
 
